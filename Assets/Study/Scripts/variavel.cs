@@ -8,8 +8,6 @@ public class variavel : MonoBehaviour
     string nome = "Carlos";
     float velocidade = 1.5f;
 
-
-
     void Start()
     {
         Debug.Log(vidas);
